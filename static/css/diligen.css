@@ -1,0 +1,22 @@
+#main {
+  text-align: center;
+  padding-bottom: 50px;
+}
+#analytic-input {
+  resize: vertical;
+}
+#main > h1 {
+  padding-bottom: 50px;
+}
+#original-text {
+  text-align: left;
+}
+.highlight {
+  background-color: yellow;
+}
+td.selectable {
+  cursor: pointer;
+}
+hr {
+  border-top: 1px solid #ddd;
+}
